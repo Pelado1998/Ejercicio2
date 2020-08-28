@@ -12,10 +12,15 @@ namespace Ejercicio2
         {
             Console.WriteLine("Cristian Velazquez");
         }
+        static void Natalia()
+        {
+            Console.WriteLine("Natalia Legazcue");
+        }
         static void Main()
         {
             Rafael();
             Cristian();
+            Natalia();
         }
     }
 }
