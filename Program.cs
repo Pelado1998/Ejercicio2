@@ -8,18 +8,26 @@ namespace Ejercicio2
         {
             Console.WriteLine("Rafael Rodriguez");
         }
+      
         static void Cristian()
         {
             Console.WriteLine("Cristian Velazquez");
         }
+
+        static void Natalia()
+        {
+            Console.WriteLine("Natalia Legazcue");
+        }  
+      
         static void Estefano()
         {
             Console.WriteLine("Estefano Giusiano")
-        }
+       
         static void Main()
         {
             Rafael();
             Cristian();
+            Natalia();
             Estefano();
         }
     }
