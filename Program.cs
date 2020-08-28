@@ -14,7 +14,7 @@ namespace Ejercicio2
         }
         static void Estefano()
         {
-            Console.WriteLine("Estefano  Giusiano")
+            Console.WriteLine("Estefano Giusiano")
         }
         static void Main()
         {
